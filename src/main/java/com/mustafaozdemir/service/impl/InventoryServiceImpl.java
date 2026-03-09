@@ -1,5 +1,6 @@
 package com.mustafaozdemir.service.impl;
 
+import com.mustafaozdemir.exception.StockException;
 import com.mustafaozdemir.service.InventoryService;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
